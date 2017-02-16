@@ -3,3 +3,5 @@ Mars is the fourth planet from the sun.
 Mars is red. And maybe has aliens.
 
 There's water on Mars, too.
+
+Mostly ice.
